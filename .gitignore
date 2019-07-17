@@ -331,7 +331,6 @@ ASALocalRun/
 
 # Visual Studio Code settings folder
 .vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
+
+# Ingore json files
+*.json
